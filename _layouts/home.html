@@ -53,12 +53,9 @@
 
         </div>
       </header>
-
-      <h2 class="h2 mx-auto px-6 py-2 mb-2">
-        <a class="link-primary" title="test">Projects</a>
-      </h2>
       
       <div class="container mx-auto px-2 py-4">
+        <h2>Projects</h2>
         {% for post in site.posts %}
           {% include post_block.html %}
         {% endfor %}
