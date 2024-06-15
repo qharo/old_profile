@@ -16,9 +16,9 @@
 title: Aditya Yogesh Nair
 description: I’m a data scientist, who loves to dabble in everything optimization and reinforcement learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "qharo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
-github_username: qharo
+github_username: "qharo"
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
